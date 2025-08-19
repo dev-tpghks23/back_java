@@ -1,6 +1,6 @@
 package inputTest;
 
-// Ctrl + Shift + O
+// Ctrl + Shift + 
 // 자동 import
 import java.util.Scanner;
 
