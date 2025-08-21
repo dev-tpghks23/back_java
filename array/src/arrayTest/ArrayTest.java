@@ -6,7 +6,6 @@ public class ArrayTest {
 		int[] arData2 = new int[5];
 		int[] arData3 = null; // 주소의 초기값
 		
-		
 		for(int i = 0; i < arData1.length; i++) {
 			System.out.println(arData1[i]);
 		}
