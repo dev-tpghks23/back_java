@@ -24,15 +24,15 @@ public class MailTest {
 	       String subject = "메일 발송 테스트";
 	       
 	       //보낸 이메일 작성
-	       String fromEmail = "codefuling@gmail.com";
-	       String fromUsername = "세환";
+	       String fromEmail = "";
+	       String fromUsername = "";
 	       
-	       String toEmail = "tpghksgit23@gmail.com"; // 콤마(,)로 여러개 나열
+	       String toEmail = ""; // 콤마(,)로 여러개 나열
 	       
 	       //도메인 사용할 필요 없다
 	       //앱비밀번호
-	       final String username = "codefuling@gmail.com";         
-	       final String password = "gkol zyog kupv ushx";
+	       final String username = "";         
+	       final String password = "";
 	       
 	       // 메일에 출력할 텍스트
 	       String html = null;
